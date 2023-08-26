@@ -139,7 +139,7 @@ nav a {
 
 nav li.active a,
 nav a:hover {
-  color: #a2a8d3;
+  color: a2a8d3;
 }
 
 p a {
@@ -203,6 +203,12 @@ footer .social-links a:hover {
     text-align: center;
     padding: 0;
   }
+
+  .content h1 {
+    font-size: 44px;
+    line-height: 1.5;
+  }
+
   .project-description {
     padding: 0;
     text-align: center;
